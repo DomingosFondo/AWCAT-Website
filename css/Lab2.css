@@ -1,0 +1,21 @@
+body{background-color: silver;}
+body{font-family:Arial,verdana,sans-serif;}
+.container{width: width=device-width; margin: 0 auto;background-color: #FFFFFF;text-align: center;padding: 24px;}
+#menu ul li{display: inline;}
+#menu ul li a{text-decoration:none; padding: 10px;}
+p{background-color: black;color:yellow;padding: 16px;border-radius: 7px;}
+p b{font-size: 20px; }
+#foto ul li img{text-decoration: none;width: 200px;height: 150px;}
+p{background-color: black;color:yellow;padding: 16px;}
+p b{font-size: 20px; }
+#foto ul li {display: inline-block;}
+#video ul li video{text-decoration: none;width: 350px;height: 300px; padding: 20px; border-radius: 30px;}
+#video ul li {display: inline-block;}
+p{background-color: black;color:yellow;padding: 16px;}
+p b{font-size: 20px; }
+h4{color: black;}
+strong{color: red;}
+#audio ul li audio{text-decoration: none;width: 350px;
+padding: 25px;}
+#audio ul li{display: inline-block;}
+img{max-width:100%;height:auto;}
